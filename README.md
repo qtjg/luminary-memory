@@ -1,5 +1,10 @@
 # 🌙 luminary-memory
 
+<p align="center">
+  <img src="docs/assets/3d-banner.svg" alt="luminary-memory 3D banner" width="880" />
+</p>
+
+
 <!-- ⬡ 3D-UPGRADE v1 by Mayank Bhaskar -->
 <div align="center">
 
@@ -156,6 +161,22 @@ Built-in lifecycle keeps the store lean. LLM maintenance (optional) keeps it acc
 | [Benchmarks](benchmarks/RESULTS.md) | 230 ms recall @ 5k, 0 LLM tokens |
 
 ---
+
+
+---
+
+## 🧊 3D Visuals
+
+<p align="center">
+  <img src="docs/assets/3d-langs.svg" alt="luminary-memory — 3D language stack" width="800" />
+</p>
+
+Isometric 3D language stack computed from live GitHub language stats.
+Regenerate the graphics any time with the built-in generator — stdlib only, zero dependencies:
+
+```bash
+python tools/generate_3d_assets.py
+```
 
 ## License
 
